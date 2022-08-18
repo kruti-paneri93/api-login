@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.footer-block{
+  background: rgb(33,37,41);
+  padding: 20px 0;
+}
+.footer-block p{
+  color: #fff;
+  margin-bottom: 0;
+}
+.form-height{
+  height: 87.6vh;
+}
+.form-position{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
